@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="019df3ea-4b4a-4568-889b-8bdc6062b0a8" name="Default Changelist" comment="" />
+    <list default="true" id="019df3ea-4b4a-4568-889b-8bdc6062b0a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,9 +30,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/charts_flutter/plugins" />
     <property name="settings.editor.selected.configurable" value="flutter.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/charts_flutter/plugins" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1688972312167</updated>
       <workItem from="1688972317035" duration="815000" />
-      <workItem from="1688974576241" duration="1165000" />
+      <workItem from="1688974576241" duration="1987000" />
     </task>
     <servers />
   </component>
@@ -87,13 +94,17 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="623" y="379" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1688977272252">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="623" y="379" key="#com.intellij.fileTypes.FileTypeChooser/-2560.25.2560.1415/0.25.1792.1095@0.25.1792.1095" timestamp="1688977272252" />
     <state x="405" y="208" key="SettingsEditor" timestamp="1688972380030">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="405" y="208" key="SettingsEditor/-2560.25.2560.1415/0.25.1792.1095@0.25.1792.1095" timestamp="1688972380030" />
-    <state x="496" y="309" key="Vcs.Push.Dialog.v2" timestamp="1688976716371">
+    <state x="496" y="309" key="Vcs.Push.Dialog.v2" timestamp="1688977356680">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="496" y="309" key="Vcs.Push.Dialog.v2/-2560.25.2560.1415/0.25.1792.1095@0.25.1792.1095" timestamp="1688976716371" />
+    <state x="496" y="309" key="Vcs.Push.Dialog.v2/-2560.25.2560.1415/0.25.1792.1095@0.25.1792.1095" timestamp="1688977356680" />
   </component>
 </project>
