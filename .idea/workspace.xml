@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="019df3ea-4b4a-4568-889b-8bdc6062b0a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts_flutter/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/charts_flutter/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="flutter.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -42,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688972312167</updated>
-      <workItem from="1688972317035" duration="63000" />
+      <workItem from="1688972317035" duration="815000" />
     </task>
     <servers />
   </component>
@@ -54,5 +56,9 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="405" y="208" key="SettingsEditor/-2560.25.2560.1415/0.25.1792.1095@0.25.1792.1095" timestamp="1688972380030" />
+    <state x="496" y="309" key="Vcs.Push.Dialog.v2" timestamp="1688972525364">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="496" y="309" key="Vcs.Push.Dialog.v2/-2560.25.2560.1415/0.25.1792.1095@0.25.1792.1095" timestamp="1688972525364" />
   </component>
 </project>
